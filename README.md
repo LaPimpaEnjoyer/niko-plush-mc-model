@@ -3,6 +3,9 @@ Hi! I'm AXAN (@nseptimid on Twitter), and welcome to my 'BlockBench Niko plush' 
 <h2>What is this?</h2>
 This is a model I made with BlockBench in about an hour which intentionally looks like the plush of Niko from OneShot.
 
+It looks like this:
+
+![The Niko BlockBench model.](https://pbs.twimg.com/media/GFU9S92WsAAhB4G?format=png)
 
 <h2>How does this work?</h2>
 There is a ZIP file in this repository containing the the textures for the model (which are labelled according to their role), and a JSON file, which contains the model itself.
